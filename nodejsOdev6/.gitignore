@@ -1,0 +1,26 @@
+# Node.js modülleri
+node_modules/
+
+# Log dosyaları
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Çalışma ortamı dosyaları
+.DS_Store
+.env
+
+# GIT depo bilgileri
+.idea/
+.vscode/
+*.swp
+
+# Üretilmiş dosyalar
+dist/
+build/
+
+# Temp dosyaları
+*.tmp
+*.bak
